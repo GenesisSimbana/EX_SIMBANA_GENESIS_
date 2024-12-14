@@ -1,0 +1,42 @@
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\BLL\obj\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\BLL\obj\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\BLL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\DAL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\DAL.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\DAL.dll.config
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\obj\Debug\BLL.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - FUNCIONA TODO - copia\BLL\obj\Debug\BLL.pdb

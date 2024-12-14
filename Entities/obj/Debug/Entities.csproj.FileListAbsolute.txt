@@ -1,0 +1,12 @@
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\obj\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_\Entities\obj\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\bin\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\bin\Debug\Entities.pdb
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\obj\Debug\Entities.dll
+C:\Users\LENOVO\Documents\CAROLINA ESPE\EXAMEN DE DISTRIBUIDAS 1P\Ex_Simbaña_Genesis_ - copia\Entities\obj\Debug\Entities.pdb
